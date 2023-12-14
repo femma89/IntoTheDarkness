@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\DarknessLevelApp.pdb
+C:\Users\Usuario\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\Usuario\Desktop\PenImc_cor3.dll
+C:\Users\Usuario\Desktop\PresentationNative_cor3.dll
+C:\Users\Usuario\Desktop\vcruntime140_cor3.dll
+C:\Users\Usuario\Desktop\wpfgfx_cor3.dll
+C:\Users\Usuario\Desktop\DarknessLevelApp.exe
